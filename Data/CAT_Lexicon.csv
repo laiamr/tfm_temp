@@ -1,0 +1,40 @@
+﻿num_entry;word_english;pos_english;word_catalan;pos_catalan;source;spelling;comments;type_borrowing
+1;Like;noun, verb;m'agrada;noun;Users;Adapted;clicar m'agrada, fer clic en m'agrada, fer clic sobre m'agrada, fer m'agrada, fer un m'agrada;Calque
+1;Like;noun, verb;likejar;verb;Users;Adapted;;Partial adaptation
+3;Comment;noun, verb;comentar;verb;;Adapted;;Calque
+3;Comment;noun, verb;comentari;noun;;Adapted;;Calque
+4;Share;verb;compartir;verb;;Adapted;;Calque
+5;Story;noun;història;noun;;Adapted;;Calque
+6;Post;noun, verb;publicació;noun;;Adapted;;Semantic extension
+6;Post;noun, verb;publicar;verb;;Adapted;;Semantic extension
+9;Profile;noun;perfil;noun;;Adapted;;Calque
+11;Follow;verb;seguir;verb;;Adapted;;Calque
+12;Unfollow;verb;deixar de seguir;verb;;Adapted;;Calque
+15;Reply;noun, verb;respondre;verb;;Adapted;;Calque
+15;Reply;noun, verb;resposta;noun;;Adapted;;Calque
+16;Direct Message;noun;missatge directe;noun;;Adapted;;Calque
+17;Message;noun, verb;missatge;noun;;Adapted;enviar un missatge;Calque
+20;Follower;noun;seguidor;noun;;Adapted;;Calque
+24;Tag;noun, verb;etiqueta;noun;;Adapted;;Calque
+24;Tag;noun, verb;etiquetar;verb;;Adapted;;Calque
+31;Block;verb;bloquejar;verb;;Adapted;;Calque
+31;Block;verb;blocar;verb;;Adapted;;Calque
+32;Friend;noun, verb;amic;noun;;Adapted;afegir com a amic;Calque
+34;Tweet;noun, verb;piular;verb;;Adapted;;Calque
+34;Tweet;noun, verb;tuitar;verb;;Adapted;;Full adaptation
+34;Tweet;noun, verb;tuitejar;verb;;Adapted;;Full adaptation
+34;Tweet;noun, verb;piulada;noun;;Adapted;;Calque
+34;Tweet;noun, verb;tuit;noun;;Adapted;;Full adaptation
+34;Tweet;noun, verb;piulet;noun;;Adapted;;Calque
+35;Retweet;noun, verb;repiular;verb;;Adapted;;Calque
+35;Retweet;noun, verb;retuitar;verb;;Adapted;;Full adaptation
+35;Retweet;noun, verb;retuitejar;verb;;Adapted;;Full adaptation
+35;Retweet;noun, verb;repiulada;noun;;Adapted;;Calque
+35;Retweet;noun, verb;retuit;noun;;Adapted;;Full adaptation
+35;Retweet;noun, verb;repiulet;noun;;Adapted;;Calque
+36;Pin;noun, verb;clavar;verb;;Adapted;;Calque
+39;Seen;verb;vist;verb;;Adapted;;Calque
+42;Ban;verb;prohibir;verb;;Adapted;;Calque
+43;Mute;verb;silenciar;verb;;Adapted;;Calque
+45;Repost;verb;republicar;verb;;Adapted;;Calque
+54;subscribe;verb;subscriure's;verb;;Adapted;;Calque
